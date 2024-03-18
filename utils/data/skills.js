@@ -1,24 +1,19 @@
 export const skillsData = [
-  'HTML',
-  'CSS',
-  'Javascript',
-  'Typescript',
-  'React',
-  'Next JS',
-  'Tailwind',
-  'MongoDB',
-  'MySQL',
-  'PostgreSQL',
-  'Git',
-  'AWS',
-  'Bootstrap',
-  'Docker',
+  'Python',
+  'C',
+  'C++',
   'Go',
-  'Figma',
-  'Firebase',
-  'MaterialUI',
-  'Nginx',
-  'Strapi'
+  'Bash',
+  'Trufflehog',
+  'Burp Suite',
+  'FFuF', 
+  'Shodan',
+  'Nmap',
+  'Docker',
+  'Git',
+  'Splunk', 
+  'Numpy',
+  'Parrot OS',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -98,10 +93,10 @@ export const skillsData = [
   Lightroom
   MaterialUI
   Nginx
-  Numpy
+  Numpy Graphql
   OpenCV
   Pytorch
-  Selenium
+  Selenium Numpy Graphql
   Strapi
   Tensorflow
   Webex

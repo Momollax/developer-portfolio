@@ -72,11 +72,43 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import nmap from '/public/svg/skills/nmap.svg';
+import bash from '/public/svg/skills/bash.svg';
+import ffuf from '/public/svg/skills/ffuf.svg';
+import splunk from '/public/svg/skills/splunk.svg';
+import trufflehog from '/public/svg/skills/trufflehog.svg';
+import shodan from '/public/svg/skills/shodan.svg';
+import burp from '/public/svg/skills/burp.svg';
+import parrot from '/public/svg/skills/parrot.svg';
 
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'nmap':
+      return nmap;
+    case 'bash':
+      return bash;
+    case 'ffuf':
+      return ffuf;
+    case 'splunk':
+      return splunk;
+    case 'trufflehog':
+      return trufflehog;
+    case 'shodan':
+      return shodan;
+    case 'burp suite':
+      return burp
+    case 'parrot os':
+      return parrot;
+
+
+
+
+
+
+
+
     case 'gcp':
       return gcp;
     case 'html':
