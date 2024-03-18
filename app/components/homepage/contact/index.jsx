@@ -8,6 +8,8 @@ import { FaXTwitter } from "react-icons/fa6";
 import { IoLogoGithub, IoMdCall } from "react-icons/io";
 import { MdAlternateEmail } from "react-icons/md";
 import ContactForm from './contact-form';
+import Script from './script';
+
 
 function ContactSection() {
   return (
@@ -54,6 +56,8 @@ function ContactSection() {
                 size={48}
               />
             </Link>
+            <Script src={personalData.thm} />
+            
           </div>
         </div>
       </div>

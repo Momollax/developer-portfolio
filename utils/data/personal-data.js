@@ -10,5 +10,6 @@ export const personalData = {
   github: 'https://github.com/Momollax',
   linkedIn: 'https://www.linkedin.com/in/%C9%B4%E1%B4%8F%E1%B4%87-%E1%B4%8D/',
   devUsername: "Momollax",
-  resume: "https://drive.google.com/file/d/1mN93lzbvdws49U5czkOq6rARuwyjP2qp/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1mN93lzbvdws49U5czkOq6rARuwyjP2qp/view?usp=sharing",
+  thm: "https://tryhackme.com/badge/988143"
 }
