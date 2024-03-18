@@ -80,7 +80,7 @@ import trufflehog from '/public/svg/skills/trufflehog.svg';
 import shodan from '/public/svg/skills/shodan.svg';
 import burp from '/public/svg/skills/burp.svg';
 import parrot from '/public/svg/skills/parrot.svg';
-
+import postman from '/public/svg/skills/postman.svg';
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -101,7 +101,8 @@ export const skillsImage = (skill) => {
       return burp
     case 'parrot os':
       return parrot;
-
+    case 'postman':
+      return postman;
 
 
 

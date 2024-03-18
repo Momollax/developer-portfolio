@@ -19,7 +19,15 @@ function AboutSection() {
             Who I am?
           </p>
           <p className="text-gray-200 text-sm lg:text-lg">
-            {personalData.description}
+            {personalData.description1}
+          </p>
+
+          <p className="text-gray-200 text-sm lg:text-lg">
+            {personalData.description2}
+          </p>
+
+          <p className="text-gray-200 text-sm lg:text-lg">
+            {personalData.description3}
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
@@ -27,7 +35,7 @@ function AboutSection() {
             src={personalData.profile}
             width={280}
             height={280}
-            alt="Abu Said"
+            alt="Noé M"
             className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
           />
         </div>

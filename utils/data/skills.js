@@ -6,13 +6,13 @@ export const skillsData = [
   'Bash',
   'Trufflehog',
   'Burp Suite',
+  'Postman',
   'FFuF', 
   'Shodan',
   'Nmap',
   'Docker',
   'Git',
   'Splunk', 
-  'Numpy',
   'Parrot OS',
 ]
 

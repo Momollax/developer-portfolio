@@ -89,29 +89,33 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Abu Said</span>
+                <span className="text-amber-300">Noé M</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">React</span>
+                <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NextJS</span>
+                <span className="text-amber-300">C</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">C++</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Go</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
+                <span className="text-amber-300">Splunk</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySql</span>
+                <span className="text-amber-300">Burp Suite</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
+                <span className="text-amber-300">FFuF</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Git</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Shodan</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Nmap</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
@@ -125,10 +129,21 @@ function HeroSection() {
                 <span className="text-gray-400">,</span>
               </div>
               <div>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">Hacker:</span>
+                <span className="text-orange-400">true</span>
+                <span className="text-gray-400">,</span>
+              </div>
+              <div>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">Hetical:</span>
+                <span className="text-orange-400">true</span>
+                <span className="text-gray-400">,</span>
+              </div>
+              <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">problemSolver:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
+              
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-green-400">hireable:</span>
                 <span className="text-orange-400">function</span>
